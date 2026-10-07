@@ -3,6 +3,7 @@ https://www.7-zip.org/download.html
 
 
 Then go to the Cindy.7z archive:
+
 <img width="763" height="337" alt="image" src="https://github.com/user-attachments/assets/836ef354-2f58-4340-8c29-66eb635d6001" />
 
 Download it:
